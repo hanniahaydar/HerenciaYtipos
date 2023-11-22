@@ -2,8 +2,8 @@ package Extender;
 
 public class Futbolista extends SeleccionFutbol
 {
-	private int dorsal;
-	private String demarcacion;
+	private int nombre;
+	private String numDeCamisa;
 
         public Futbolista() {
 		super();
