@@ -44,6 +44,8 @@ public class Controladora {
     ani.verPartido();
     ani.animarEquipo();
     
-    Locutor l = new Locutor
+    Locutor l = new Locutor();
+    l.verPartido();
+    l.narrarPartido();
 	}
 }
