@@ -43,5 +43,7 @@ public class Controladora {
     Animadoras ani = new Animadoras();
     ani.verPartido();
     ani.animarEquipo();
+    
+    Locutor l = new Locutor
 	}
 }
