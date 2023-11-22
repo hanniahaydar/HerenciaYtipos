@@ -46,6 +46,5 @@ public class Controladora {
     
     Locutor l = new Locutor();
     l.verPartido();
-    l.narrarPartido();
 	}
 }

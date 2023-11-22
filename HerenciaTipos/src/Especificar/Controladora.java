@@ -1,11 +1,11 @@
-package Especializar;
+package Especificar;
 
-public class Controladoraa{
+public class Controladora{
     public static void main (String[] args) {
         
         Triangulo t1 = new Triangulo(35,10);
     t1.area();
-        System.out.println(t1.area());
+                 System.out.println(t1.area());
       
         Cuadrado c1 = new Cuadrado(5);
     c1.area();

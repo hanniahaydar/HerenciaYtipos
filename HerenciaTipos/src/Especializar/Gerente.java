@@ -9,7 +9,6 @@ package Especializar;
 	        this.departamento = departamento;
 	    }
 
-	    // Método específico para la clase Gerente
 	    public void gestionarProyecto() {
 	        System.out.println("El gerente está gestionando el proyecto en el departamento " + departamento + ".");
 	    }
