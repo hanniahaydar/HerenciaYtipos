@@ -19,5 +19,9 @@ public class AvionDePapel extends Avion {
 	public String getTipoDeHoja() {
 		return tipoDeHoja;
 	}
+	public void Volar() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
