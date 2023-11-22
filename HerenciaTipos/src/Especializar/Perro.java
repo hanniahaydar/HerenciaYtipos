@@ -8,8 +8,6 @@ public class Perro extends Animal {
        super(nombre, edad);
        this.raza = raza;
    }
-
-   // Método específico para la clase Perro
    public void ladrar() {
        System.out.println("¡Guau! ¡Guau!");
    }

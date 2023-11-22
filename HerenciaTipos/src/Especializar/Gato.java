@@ -7,8 +7,6 @@ public class Gato extends Animal {
         super(nombre, edad);
         this.esDomestico = esDomestico;
     }
-
-    // Método específico para la clase Gato
     public void maullar() {
         System.out.println("¡Miau! ¡Miau!");
     }
